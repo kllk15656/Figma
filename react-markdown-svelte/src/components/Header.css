@@ -1,0 +1,37 @@
+/* Styles for the entire header section */
+
+
+.header {
+  display:flex;
+  flex-direction: column; /* Stack title and nav vertically */
+  align-items: center;    /* Center items horizontally */
+  gap: 1rem;              /* Space between elements */
+  background-color: #FFE699; /* Light background color */
+  width: 100%;
+
+}
+
+/* Styles for navigation links container */
+.header nav {
+  display: flex;          /* Arrange buttons horizontally */
+  gap: 1rem;              /* Space between buttons */
+}
+
+.header h1{
+  color: black;
+}
+
+/* Styles for each link */
+.header a {
+  text-decoration: none;  /* Remove underline */
+  color: black;         /* Blue color */
+  padding: 0.5rem 1rem;   /* Add padding around text */
+  border-radius: 5px;     /* Rounded corners */
+  transition: background 0.3s, color 0.3s; /* Smooth hover effect */
+}
+
+/* Hover effect for links */
+.header a:hover {
+  background-color: #007bff; /* Fill button with blue */
+  color: white;              /* White text */
+}
