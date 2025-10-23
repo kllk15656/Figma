@@ -1,0 +1,14 @@
+.home h2 {
+    text-align: center;
+    padding: 2rem;
+    font-family: Georgia, serif;
+    font-size: 40px;
+    
+}
+
+
+.home p {
+    text-align: center;
+    padding: 1rem;
+    font-family: Georgia, serif;
+}

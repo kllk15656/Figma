@@ -5,12 +5,16 @@ import MarkdownPage from "./Markdownpage"; // Markdown page component
 import FigmaTutorial from "./Tutorial";       // Tutorial page component
 import Notes from "./Notes";
 import Presentation from "../content/Presentation.md?raw"; // Markdown content as raw string
+import "./Home.css"; // Import CSS file for styling the home
+
 
 
 // Home page component (Welcome page)
 const Home: React.FC = () => (
-  <div style={{ textAlign: "center", padding: "2rem" }}>
-    <h2>Welcome! Select a page to view:</h2>
+  <div className="home">
+    <h2>Welcome to our site</h2>
+    <p>Figma is a browser-based design and prototype tool used for UI/UX design, web, and application
+ interface, and allows project collaboration.</p>
   </div>
 );
 
