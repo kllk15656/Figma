@@ -4,7 +4,7 @@ This tutorial provides a step-by-step guide on how to use Figma’s core feature
 ### Step 1
 In the main Figma dashboard, click on the ‘Design’ button to create a new design file.
 
-![Figma Design](../assets/tutorial-images/tutorial-img1.jpg)
+![Figma Design](../tutorial-images/tutorial-img1.jpg)
 
 ### Step 2
 This will take you to the canvas. Within the design tools panel, add a frame and select your preferred screen size within the properties panel.
