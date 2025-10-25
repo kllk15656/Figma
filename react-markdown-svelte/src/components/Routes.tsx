@@ -12,9 +12,25 @@ import "./Home.css"; // Import CSS file for styling the home
 // Home page component (Welcome page)
 const Home: React.FC = () => (
   <div className="home">
-    <h2>Welcome to our site</h2>
-    <p>Figma is a browser-based design and prototype tool used for UI/UX design, web, and application
- interface, and allows project collaboration.</p>
+    <img src="/Home.png" alt="Home" className="center-image" />
+
+
+    <p>
+      Figma is a browser-based design and prototype tool used for UI/UX design,
+      web, and application interfaces, and allows project collaboration.
+    </p>
+
+    {/* Fun Fact Box */}
+    <div className="fun-fact-box">
+      <h3>💡 Fun Fact</h3>
+      <p>
+        The Welcome message was created by the Figma design Feature!</p>
+      <img
+        src="/Design.png"
+        alt="Fun fact illustration"
+        className="fun-fact-image"
+      />
+    </div>
   </div>
 );
 
