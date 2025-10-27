@@ -257,12 +257,12 @@ No need to buy a license or worry about platform restrictions, individuals and t
 
  ### References
 
- [Figma](https://www.figma.com/blog/everything-you-need-to-know-about-dev-mode/) (2024) *Everything You Need to Know About Dev Mode* | Figma Blog. [online] Available at: https://www.figma.com/blog/everything-you-need-to-know-about-dev-mode/.
+[Figma](https://www.figma.com/blog/everything-you-need-to-know-about-dev-mode/) (2024) *Everything You Need to Know About Dev Mode* | Figma Blog. [online] Available at: https://www.figma.com/blog/everything-you-need-to-know-about-dev-mode/.
 
 
- [What is Figma?](https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma) Figma Learn (2024) *What is Figma?* [online] Available at: https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma (Accessed 7 October 2025).
+[What is Figma?](https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma) Figma Learn (2024) *What is Figma?* [online] Available at: https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma (Accessed 7 October 2025).
 
-[What is Figma](https://www.geeksforgeeks.org/websites-apps/what-is-figma/) (2024) GeeksForGeeks. *What is Figma?* [online] Available at: https://www.geeksforgeeks.org/websites-apps/what-is-figma/ (Accessed 7 October 2025).
+[What is Figma?](https://www.geeksforgeeks.org/websites-apps/what-is-figma/) (2024) GeeksForGeeks. *What is Figma?* [online] Available at: https://www.geeksforgeeks.org/websites-apps/what-is-figma/ (Accessed 7 October 2025).
 
 [Pros & Cons of Figma](https://projectmanagers.net/the-pros-and-cons-of-using-figma-software/ ) Kanai, P. (2025) *The Pros And Cons Of Using Figma Software* [online] Available at: https://projectmanagers.net/the-pros-and-cons-of-using-figma-software/ (Accessed 10 October 2025).
 
