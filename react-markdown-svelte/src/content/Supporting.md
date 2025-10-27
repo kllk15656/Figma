@@ -257,25 +257,41 @@ No need to buy a license or worry about platform restrictions, individuals and t
 
  ### References
 
- [What is Figma?](https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma)
+ [Figma](https://www.figma.com/blog/everything-you-need-to-know-about-dev-mode/) (2024) *Everything You Need to Know About Dev Mode* | Figma Blog. [online] Available at: https://www.figma.com/blog/everything-you-need-to-know-about-dev-mode/.
 
-[What is Figma - GeekForGeeks](https://www.geeksforgeeks.org/websites-apps/what-is-figma/)
 
-[Pros & Cons of Figma](https://projectmanagers.net/the-pros-and-cons-of-using-figma-software/ )
+ [What is Figma?](https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma) Figma Learn (2024) *What is Figma?* [online] Available at: https://help.figma.com/hc/en-us/articles/14563969806359-What-is-Figma (Accessed 7 October 2025).
 
-[UXPin vs Adobe XD](https://www.uxpin.com/studio/blog/figma-vs-adobe-xd-vs-uxpin/)
+[What is Figma](https://www.geeksforgeeks.org/websites-apps/what-is-figma/) (2024) GeeksForGeeks. *What is Figma?* [online] Available at: https://www.geeksforgeeks.org/websites-apps/what-is-figma/ (Accessed 7 October 2025).
 
-[Adobe](https://helpx.adobe.com/uk/support/xd.html)
+[Pros & Cons of Figma](https://projectmanagers.net/the-pros-and-cons-of-using-figma-software/ ) Kanai, P. (2025) *The Pros And Cons Of Using Figma Software* [online] Available at: https://projectmanagers.net/the-pros-and-cons-of-using-figma-software/ (Accessed 10 October 2025).
 
-[Mockplus](https://www.mockplus.com/)
+[UXPin vs Adobe XD](https://www.uxpin.com/studio/blog/figma-vs-adobe-xd-vs-uxpin/) (2023) UXPin. *What’s the Difference Between Figma vs AdobeXD vs UXPin?* [online] Available at: https://www.uxpin.com/studio/blog/figma-vs-adobe-xd-vs-uxpin/ (Accessed 12 October 2025).
 
-[Balsamiq](https://balsamiq.com/ )
+[Mockplus](https://www.mockplus.com/) (2025) Mockplus. [online] Available at: https://www.mockplus.com/ (Accessed 12 October 2025).
 
-[Marvel](https://marvelapp.com/ )
+[Balsamiq](https://balsamiq.com/) (2025) Balsamiq. [online] Available at: https://balsamiq.com/ (Accessed 12 October 2025).
 
-[UXPin](https://www.uxpin.com/ )
+[Marvel](https://marvelapp.com/) (2025) Marvel. [online] Available at: https://marvelapp.com/ (Accessed 12 October 2025).
 
-[Sketch](https://www.sketch.com/  )
+[UXPin](https://www.uxpin.com/) (2025) UXPin. [online] Available at: https://www.uxpin.com/  (Accessed 12 October 2025).
+
+[Sketch](https://www.sketch.com/) (2025) Sketch. [online] Available at: https://www.sketch.com/ (Accessed 12 October 2025).
  
+[Coursera](https://www.coursera.org/learn/figma-pro-pt-1-auto-layouts-grids--components/lecture/arshB/class-project-01-responsive-lower-navigation) (2025) Coursera *Figma Pro Pt. 1: Auto Layouts, Grids & Components.* [online] Available at: https://www.coursera.org/learn/figma-pro-pt-1-auto-layouts-grids--components/lecture/arshB/class-project-01-responsive-lower-navigation (Accessed 27 Oct. 2025)
 
- 
+[DesignLab](https://designlab.com/figma-101-course/introduction-to-figma) (n.d.). Design Lab *Figma 101: Introduction to Figma* | [online] Available at: https://designlab.com/figma-101-course/introduction-to-figma.
+
+[FigmaLearn](https://help.figma.com/hc/en-us/articles/360040318013-Play-your-prototypes) (2025) Figma Learn - Help Center. *Play your prototypes.* [online] Available at: https://help.figma.com/hc/en-us/articles/360040318013-Play-your-prototypes (Accessed 27 Oct. 2025).
+
+[TemidJoy](https://temidjoy.medium.com/) Adefioye, T. (2018). *Easiest way to collaborate with your design team using Figma.* [online] Medium. Available at: https://temidjoy.medium.com/easiest-way-to-collaborate-with-your-design-team-using-figma-9e906b7723ec.
+
+[Digidop](https://www.digidop.com/blog/features-better-collaboration-figma.) (2023) Digidop. *Figma, the design tool built for collaboration.* [online] Available at: https://www.digidop.com/blog/features-better-collaboration-figma.
+
+[FigmaLearn](https://help.figma.com/hc/en-us/articles/) (2025) Figma Learn - Help Center. *Create interactive components with variants.* [online] Available at: https://help.figma.com/hc/en-us/articles/360061175334-Create-interactive-components-with-variants.
+
+[Figma](https://developers.figma.com/docs/rest-api/) (2025) Figma.com. *Introduction | Developer Docs.* [online] Available at: https://developers.figma.com/docs/rest-api/.
+
+[VolumeNine](https://www.v9digital.com/insights/plugins-vs-widgets/) (2025) Volume Nine. *Plugins vs. Widgets.* [online] Available at: https://www.v9digital.com/insights/plugins-vs-widgets/.
+
+[Codefinity](https://codefinity.com/courses/v2/f9b355ab-23dd-4d38-a615-a41b6685d244/4a020f52-2309-406c-924b-c7485d487ebc/caa06e5e-0c4c-474d-95f6-d8075a3789ca) (2024) Codefinity. *Codefinity: Courses with certificates | Online Learning Platform.* [online] Available at: https://codefinity.com/courses/v2/f9b355ab-23dd-4d38-a615-a41b6685d244/4a020f52-2309-406c-924b-c7485d487ebc/caa06e5e-0c4c-474d-95f6-d8075a3789ca (Accessed 27 Oct. 2025).
