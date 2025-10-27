@@ -2,7 +2,7 @@
   "name": "react-markdown-svelte",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://kllk15656.github.io/figma/",
+  "homepage": "https://kllk15656.github.io/Figma/react-markdown-svelte/",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
